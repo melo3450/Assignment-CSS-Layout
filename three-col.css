@@ -1,0 +1,16 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+.col{
+    float: left;
+    padding: 10px;
+    width: 30%;
+}
+.heading{
+    text-align: center;
+}
+.columns{
+    border-top: groove;
+}
